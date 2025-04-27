@@ -14,4 +14,4 @@ The dataset was cleaned, processed, and used to train a Gradient Boosting Regres
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/istanbul-real-estate-prediction.git
+   git clone https://github.com/mert1996/istanbul-real-estate-prediction.git
